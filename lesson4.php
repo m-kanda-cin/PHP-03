@@ -16,7 +16,7 @@
 $input = 9;
 $add = "";
 
-for($i=1;$i<=$input;$i++)
+for($i = 1 ; $i <= $input ; $i++)
 {
     if($i == 1)
     {
@@ -50,7 +50,7 @@ echo "<br />";
 $input = 6;
 $add = "";
 
-for($i=1;$i<=$input;$i++)
+for($i = 1 ; $i <= $input ; $i++)
 {
     if($i == 1)
     {
